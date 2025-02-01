@@ -1,0 +1,7 @@
+Downnload the ZIP file
+Extract the downloaded ZIP file
+Open the Folder in Vs Code 
+In Vs code open Command prompt(Ctrl+Shift+`) 
+To run the code type the command "python main.py"
+Hover on the localhost link 
+Click on the link to see the output
